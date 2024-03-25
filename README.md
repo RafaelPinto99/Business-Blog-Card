@@ -8,9 +8,10 @@ This repository contains code for a business blog card. The blog card is a simpl
 
 ## Preview
 
-![previewBlogCard](https://github.com/RafaelPinto99/Minimal-Blog-Card/assets/33991446/242a8e8a-d84b-4098-8822-67658a3aee21)
+![previewBusinessBlogCard](https://github.com/RafaelPinto99/Business-Blog-Card/assets/33991446/8858ac0f-62d6-45fa-b984-9958cd5141bc)
 
-## Usage
+## Usage!
+
 
 1. Clone the repository:
 
